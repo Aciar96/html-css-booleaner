@@ -6,8 +6,20 @@ figure{
     height: 80px;
     background-size: contain;
 } 
-#testo-pattern{
+#pattern{
+    font-family: 'Times New Roman', Times, serif;
     color: blue;
-    height: 40px;
-    height: 40px;
+} 
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: 400;
+    margin: 0;
+} 
+.scritto,.data{
+    color: #9b9da1c7;
+    margin: 0;
+} 
+.first{
+    color: rgb(1, 118, 214);
 } 
