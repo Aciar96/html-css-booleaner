@@ -1,3 +1,4 @@
+/* header */
 figure{
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
@@ -9,6 +10,7 @@ figure{
 #pattern{
     font-family: 'Times New Roman', Times, serif;
     color: blue;
+    font-weight: 800;
 } 
 h3{
     font-family: 'Times New Roman', Times, serif;
@@ -19,7 +21,56 @@ h3{
 .scritto,.data{
     color: #9b9da1c7;
     margin: 0;
-} 
+   } 
+   /* main*/
 .first{
     color: rgb(1, 118, 214);
 } 
+div{
+    background-size: cover;
+    margin: 0;
+} 
+.descript{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+table {
+    background-color:  #64c4ff;
+    border: 0px;
+    border-collapse: collapse;
+}
+
+td{
+    width: 1080px;
+}
+#riga1{
+    color:#ffffff;
+    background-color: rgb(2, 161, 230);
+    font-size: 16px;
+}
+
+#riga2{
+    background-color: #64c4ff;
+}
+#riga3{
+    background-color: #ffffff;
+}
+#riga4{
+    background-color: #64c4ff;
+   ;
+}
+
+/* footer */
+h4{
+color:#9b9da1c7; ;
+} 
+#img1{
+     font-family: 'Times New Roman', Times, serif;
+     color:#ffffff;
+ }
+ 
