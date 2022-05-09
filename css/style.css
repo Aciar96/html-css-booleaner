@@ -1,3 +1,13 @@
-.first{
+figure{
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-color: #7fa6fb;
+    margin: 0;
+    height: 80px;
+    background-size: contain;
+} 
+#testo-pattern{
     color: blue;
+    height: 40px;
+    height: 40px;
 } 
